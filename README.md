@@ -6,9 +6,16 @@
 
 Use [GitHub Releases](https://github.com/yeyebbc/meeye-releases/releases) to manually download APKs.
 
-**Optional But Recommended**
+### Obtainium (Recommended)
 
-Use [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) to get latest Meeye directly from GitHub. However a first time set-up is required:
+Use [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) to get latest Meeye directly from GitHub.
+
+However a first time set-up is required:
+
+- Install Obtainium in whichever way you prefer.
+- Launch Obtainium and Switch to “Add App” page.
+- Paste [this repository’s link](https://github.com/yeyebbc/meeye-releases) into “App Source URL \*”.
+- Press “Add” and leave everything as default or tweak if you know what you’re doing.
 
 ### Within Telegram Group
 
