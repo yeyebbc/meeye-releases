@@ -8,7 +8,7 @@ Use [GitHub Releases](https://github.com/yeyebbc/meeye-releases/releases) to man
 
 **Optional But Recommended**
 
-Use [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) to get latest Meeye. However a first time set-up is required:
+Use [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) to get latest Meeye directly from GitHub. However a first time set-up is required:
 
 ### Within Telegram Group
 
