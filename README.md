@@ -25,7 +25,7 @@ If you have joined Meeye’s only official Telegram group, search for #updates o
 
 If you prefer this way, [here is the link](https://1drv.ms/f/c/dc6bae0a0009378c/Eow3CQAKrmsggNwn6gQAAAABQhLORX2toS1y1cUXGKodJw?e=Czcdsq). I will keep them available as long as I am still subscribing Microsoft Office 365.
 
-## Explanation on licenses
+## Explanation on Licenses
 
 This application uses a hybrid license for different parts.
 
