@@ -6,9 +6,9 @@
 
 Use [GitHub Releases](https://github.com/yeyebbc/meeye-releases/releases) to manually download APKs.
 
-**Optional**
+**Optional But Recommended**
 
-Use [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) to notify you when a new Meeye is released. However a first time set-up is required.
+Use [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) to get latest Meeye. However a first time set-up is required:
 
 ### Within Telegram Group
 
@@ -16,7 +16,7 @@ If you have joined Meeye’s only official Telegram group, search for #updates o
 
 ### OneDrive Shared Link
 
-If you prefer this way, [here is the link](https://1drv.ms/f/c/dc6bae0a0009378c/Eow3CQAKrmsggNwn6gQAAAABQhLORX2toS1y1cUXGKodJw?e=Czcdsq). I will keep them available as long as I am still subscribing Office 365 (which now called Microsoft Copilot 365).
+If you prefer this way, [here is the link](https://1drv.ms/f/c/dc6bae0a0009378c/Eow3CQAKrmsggNwn6gQAAAABQhLORX2toS1y1cUXGKodJw?e=Czcdsq). I will keep them available as long as I am still subscribing Microsoft Office 365.
 
 ## Explanation on licenses
 
